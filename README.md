@@ -116,8 +116,3 @@ Engineering Student | Data Analytics Enthusiast
 ## 📌 Tags
 
 `Power BI` `DAX` `Data Analytics` `Business Intelligence` `AI` `Dashboard Design`
-
-
-
-> *(Add screenshots of your dashboard here)*
-
